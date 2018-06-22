@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/shen/Trying/Predict/up/Final_version_NerualNet/Waistline_net/Net_save/model.ckpt"
+all_model_checkpoint_paths: "/home/shen/Trying/Predict/up/Final_version_NerualNet/Waistline_net/Net_save/model.ckpt"

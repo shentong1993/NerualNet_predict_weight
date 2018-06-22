@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/shen/Trying/Predict/up/t1/more_dimension/Net_save/model.ckpt-100000"
+all_model_checkpoint_paths: "/home/shen/Trying/Predict/up/t1/more_dimension/Net_save/model.ckpt-100000"

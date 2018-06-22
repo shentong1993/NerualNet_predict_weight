@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/shen/Trying/Predict/up/t1/Net3_for_work/model.ckpt-228000"
+all_model_checkpoint_paths: "/home/shen/Trying/Predict/up/t1/Net3_for_work/model.ckpt-228000"

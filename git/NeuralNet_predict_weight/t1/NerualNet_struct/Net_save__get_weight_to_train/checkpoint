@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/shen/Trying/Predict/up/t1/NerualNet_struct/Net_save__get_weight_to_train/model.ckpt-48000"
+all_model_checkpoint_paths: "/home/shen/Trying/Predict/up/t1/NerualNet_struct/Net_save__get_weight_to_train/model.ckpt-48000"
